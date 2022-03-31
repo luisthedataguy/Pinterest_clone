@@ -12,7 +12,7 @@ Objetivos
 
 Hacer lo más parecido el diseño de pinterest. Toma en cuenta la navbar y que cada tarjeta tiene un hover para mostrar 3 diferentes botones
 Por lo menos deben de existir 30 imágenes.
-
+ 
 Requerimientos técnicos
 Tener <nav> </nav> con #navbar-pinterest 
 El buscador debe de ser <input> con .finder
